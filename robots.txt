@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paulayobami82-create.github.io/canada-pathway-ng/sitemap.xml
